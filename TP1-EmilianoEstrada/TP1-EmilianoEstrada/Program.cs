@@ -80,7 +80,11 @@ namespace TP1_EmilianoEstrada
             List<Copo> cf = new List<Copo>();
             while (true) {
                 int lugarcopo = ran.Next(0, tu.Columnas);
-                c.Add(new Copo(lugarcopo, 0));
+                if (!c.Any(t => t.x == lugarcopo && t.y == 0) &&
+                !cf.Any(t => t.x == lugarcopo && t.y == 0))
+                {
+                    c.Add(new Copo(lugarcopo, 0));
+                }
                 for (int i = c.Count - 1; i >= 0; i--)
                 {
                     Copo copos = c[i];

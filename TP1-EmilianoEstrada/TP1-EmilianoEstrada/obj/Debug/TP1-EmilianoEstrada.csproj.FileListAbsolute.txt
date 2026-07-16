@@ -5,3 +5,10 @@ C:\Users\laugt\source\repos\TP1-EmilianoEstrada\TP1-EmilianoEstrada\obj\Debug\TP
 C:\Users\laugt\source\repos\TP1-EmilianoEstrada\TP1-EmilianoEstrada\obj\Debug\TP1-EmilianoEstrada.csproj.CoreCompileInputs.cache
 C:\Users\laugt\source\repos\TP1-EmilianoEstrada\TP1-EmilianoEstrada\obj\Debug\TP1-EmilianoEstrada.exe
 C:\Users\laugt\source\repos\TP1-EmilianoEstrada\TP1-EmilianoEstrada\obj\Debug\TP1-EmilianoEstrada.pdb
+C:\Users\laugt\source\repos\tp-poo\TP1-EmilianoEstrada\TP1-EmilianoEstrada\bin\Debug\TP1-EmilianoEstrada.exe.config
+C:\Users\laugt\source\repos\tp-poo\TP1-EmilianoEstrada\TP1-EmilianoEstrada\bin\Debug\TP1-EmilianoEstrada.exe
+C:\Users\laugt\source\repos\tp-poo\TP1-EmilianoEstrada\TP1-EmilianoEstrada\bin\Debug\TP1-EmilianoEstrada.pdb
+C:\Users\laugt\source\repos\tp-poo\TP1-EmilianoEstrada\TP1-EmilianoEstrada\obj\Debug\TP1-EmilianoEstrada.csproj.AssemblyReference.cache
+C:\Users\laugt\source\repos\tp-poo\TP1-EmilianoEstrada\TP1-EmilianoEstrada\obj\Debug\TP1-EmilianoEstrada.csproj.CoreCompileInputs.cache
+C:\Users\laugt\source\repos\tp-poo\TP1-EmilianoEstrada\TP1-EmilianoEstrada\obj\Debug\TP1-EmilianoEstrada.exe
+C:\Users\laugt\source\repos\tp-poo\TP1-EmilianoEstrada\TP1-EmilianoEstrada\obj\Debug\TP1-EmilianoEstrada.pdb
